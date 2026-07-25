@@ -16,15 +16,6 @@ Building production-grade systems with FastAPI, PostgreSQL, and Redis.
 
 ---
 
-## 📊 GitHub Stats
-
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammads-git&show_icons=true&theme=dark&hide_border=true)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammads-git&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-hammad)
