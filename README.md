@@ -18,7 +18,7 @@ Building production-grade systems with FastAPI, PostgreSQL, and Redis.
 
 ## 📊 GitHub Stats
 
-![Muhammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammads-git&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=muhammads-git&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammads-git&layout=compact&theme=dark&hide_border=true)
 
