@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hammad 👋
 
-Backend Engineer specializing in Python API development.
+Backend Engineer specializing in Python development.
 Building production-grade systems with FastAPI, PostgreSQL, and Redis.
 
 ---
